@@ -1,4 +1,4 @@
-SQL SuperLett
+SQL SuperLett v1.0
 
 Om Programmet
 
