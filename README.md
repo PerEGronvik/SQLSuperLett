@@ -2,7 +2,7 @@ SQL SuperLett v1.0
 
 Om Programmet
 
-Dette programmet ble laget for å øve på SQL-spørringer. Det er et interaktivt verktøy som tillater brukere å utføre SQL-kommandoer mot en SQLite-database.
+Dette programmet ble laget for å øve på SQL-spørringer. Det er et interaktivt verktøy som tillater brukere å utføre SQL-kommandoer mot en SQLite-database. Dette prosjektet ble avsluttet da jeg fant SQL editor i Intellij og anser det som et utkast. Lærerikt var det.
 
 Forutsetninger
 Python 3.x
